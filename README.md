@@ -1,3 +1,3 @@
-# Bushido OS
+# Bushido Linux OS
 
 ![](BUSHIDO.jpg)
