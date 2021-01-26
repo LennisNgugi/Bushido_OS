@@ -2,6 +2,17 @@
 
 ![](images/BUSHIDO.jpg)
 
+# Usage 
+
+Runs live of a bootable usb 
+
+# Requirements 
+
+python setup.py
+
+# To-Do List 
+<li>Add Source Code to Github repository</li>
+<li>Add encryption</li> 
 
 # Disclaimer:
  
