@@ -8,6 +8,7 @@ Runs live of a bootable usb
 
 # Requirements 
 
+<li>4GB Ram</li>
 <li>Minimum 10GB usb drive</li>
 <li>Create a bootable usb drive using an application such as Rufus or BalenaEtcher.</li>
 <li>Alternatively, run iso image in a Virtual Machine.</li>
