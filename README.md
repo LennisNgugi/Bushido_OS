@@ -2,9 +2,9 @@
 
 ![](images/BUSHIDO.jpg)
 
-# Usage 
+# What is Bushido
 
-Runs live of a bootable usb 
+A minimalist yet aesthetic operating system developed with the sole purpose of a simple yet effective OS. 
 
 # Requirements 
 
