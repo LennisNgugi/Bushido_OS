@@ -13,10 +13,10 @@ Due to file size restriction the Bushido live iso is currently hosted in a Googl
 Bushido ISO Link:
 
 # Requirements 
-<li>Create a bootable usb drive using an application such as Rufus or BalenaEtcher.</li>
+<li>Create a bootable usb drive using an application such as Rufus or BalenaEtcher</li>
 <li>Minimum 10GB usb drive</li>
 <li>4GB Ram</li>
-<li>Alternatively, run iso image in a Virtual Machine.</li>
+<li>Alternatively, run iso image in a Virtual Machine</li>
 
 # To-Do List 
 <li>Add Source Code to Github repository for open source review</li>
