@@ -2,9 +2,15 @@
 
 ![](images/BUSHIDO.jpg)
 
-# What is Bushido
+# What is Bushido?
 
 A minimalist yet aesthetic operating system developed with the sole purpose of a simple yet effective OS. 
+
+# Where can i find the ISO file?
+
+Due to file size restriction the iso is currently hosted in a Google Drive.
+
+Bushido ISO Link:
 
 # Requirements 
 
