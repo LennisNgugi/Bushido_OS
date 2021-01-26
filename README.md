@@ -8,7 +8,11 @@ Runs live of a bootable usb
 
 # Requirements 
 
-python setup.py
+<li>Minimum 10GB usb drive</li>
+<li>Create a bootable usb drive using an application such as Rufus or BalenaEtcher.</li>
+<li>Alternatively, run iso image in a Virtual Machine.</li>
+
+Rufus is a small application that creates bootable USB drives,
 
 # To-Do List 
 <li>Add Source Code to Github repository</li>
