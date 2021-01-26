@@ -14,7 +14,7 @@ A minimalist yet aesthetic operating system developed with the sole purpose of a
 <li>Alternatively, run iso image in a Virtual Machine.</li>
 
 # To-Do List 
-<li>Add Source Code to Github repository</li>
+<li>Add Source Code to Github repository for open source review</li>
 <li>Test OS</li>
 <li>Add encryption</li> 
 
