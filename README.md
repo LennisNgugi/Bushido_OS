@@ -15,7 +15,9 @@ Runs live of a bootable usb
 
 # To-Do List 
 <li>Add Source Code to Github repository</li>
+<li>Test OS for Vulnerabilites</li>
 <li>Add encryption</li> 
+
 
 # Disclaimer:
  
