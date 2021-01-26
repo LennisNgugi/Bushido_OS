@@ -1,6 +1,6 @@
 # Bushido Linux OS
 
-![](BUSHIDO.jpg)
+![](images/BUSHIDO.jpg)
 
 # Disclaimer:
  
