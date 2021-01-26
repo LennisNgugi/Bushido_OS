@@ -1,1 +1,3 @@
-# Bushido_OS
+# Bushido OS
+
+![](BUSHIDO.jpg)
