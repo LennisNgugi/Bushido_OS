@@ -2,7 +2,7 @@
 
 ![](images/BUSHIDO.jpg)
 
-![](images/January 2021.jpg)
+![](images/Landing.jpg)
 
 # Disclaimer:
  
