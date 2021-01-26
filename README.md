@@ -8,7 +8,7 @@ A minimalist yet aesthetic operating system developed with the sole purpose of a
 
 # Where can i find the ISO file?
 
-Due to file size restriction the iso is currently hosted in a Google Drive.
+Due to file size restriction the iso is currently hosted in a Google Drive folder.
 
 Bushido ISO Link:
 
