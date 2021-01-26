@@ -2,7 +2,6 @@
 
 ![](images/BUSHIDO.jpg)
 
-![](images/Landing.jpg)
 
 # Disclaimer:
  
