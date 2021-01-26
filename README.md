@@ -10,7 +10,7 @@ A minimalist yet aesthetic operating system developed with the sole purpose of a
 
 Due to file size restriction the Bushido live iso is currently hosted in a Google Drive folder.
 
-Bushido ISO Link:
+Bushido ISO Link: https://cutt.ly/kj8m5L0
 
 # Requirements 
 * Create a bootable usb drive using an application such as Rufus or BalenaEtcher.
